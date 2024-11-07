@@ -9,5 +9,5 @@ You can now download the complete datasets directly from the links of Baidu Clou
 
 [Baidu](https://pan.baidu.com/s/1dOJQoppE2kC_-Xuah1tT8A?pwd=46fx)  [Google]()
 
-SDM-Car contains 99 video sequences, of which 64 are used as training sets, 15 are used as validation sets, and 20 are used as test sets. All data were taken by Luojia-3-01 satellite, with a spatial resolution of 0.75m.
+SDM-Car contains 99 video sequences for Moving Vehicles Detection and Tracking, of which 64 are used as training sets, 15 are used as validation sets, and 20 are used as test sets. All data were taken by Luojia-3-01 satellite, with a spatial resolution of 0.75m.
 
