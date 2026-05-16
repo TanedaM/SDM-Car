@@ -29,6 +29,11 @@ The annotation file `gt.txt` contains information in the following format:
 - **Target Class**: The category of the target object, fixed as `1` to represent vehicles.
 - `-1`, `-1`, `-1`: Reserved fields, consistently set to `-1`.
 
+#License
+Please notice that this dataset is made available for academic research purpose only.
+
+<a href="https://github.com/TanedaM/SDM-Car">SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos</a> © 2024 by <a href="https://openreview.net/profile?id=%7EZhen_Zhang13">Zhen Zhang</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
